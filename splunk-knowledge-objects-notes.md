@@ -4,10 +4,10 @@
 This document summarizes hands-on experience working with Splunk knowledge objects in a SOC-focused training environment.
 
 ## Knowledge Objects Used
-- Fields and field extractions
-- Saved searches
-- Reports
-- Dashboards
+- Custom Fields: Set up field extractions for important data (usernames and event IDs)
+- Saved searches (For complex SPL queries)
+- Reports (Search results into tables)
+- Dashboards (Command Center)
 
 ## SOC Use Case
 Knowledge objects were used to standardize searches, improve alert visibility, and support consistent investigation workflows.
